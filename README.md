@@ -1,6 +1,7 @@
 # Natours
 A simple project to showcase frontend skills (HTML/CSS)
-Live demo [here](https://tambui-natours.now.sh/), simply run
+
+Live demo [here](https://tambui-natours.now.sh/)
 
 ## Getting Started
 
