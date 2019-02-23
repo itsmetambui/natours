@@ -1,5 +1,6 @@
 # Natours
 A simple project to showcase frontend skills (HTML/CSS)
+Live demo [here](https://tambui-natours.now.sh/), simply run
 
 ## Getting Started
 
@@ -10,7 +11,7 @@ yarn start
 
 ## Deployment
 
-This repo contains now.sh to deploy to [NOW](https://zeit.co/now), simply run
+This repo contains now.sh to deploy to [Now](https://zeit.co/now), simply run
 
 ```
 yarn build:css
